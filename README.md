@@ -1,28 +1,18 @@
-# 💻 C++ Basic Examples
+# 💻 C++ Examples (Dev-C++)
 
-This repository contains C++ example programs created while learning C++ using Dev-C++ and other IDEs.
+A repository for storing **C++ examples and practical exercises** from an academic course.
 
----
+## 📂 Repository Content
+- Basic C++ examples
+- Practical exercises
+- Course-related code files (Dev-C++)
 
-## ✨ What You’ll Find
-- Basic console programs
-- Conditions & loops
-- Simple practice exercises
-- Beginner-friendly examples
+## 🏫 Academic Source
+**University of Shatra – Computer Engineering**
 
----
-
-## ▶️ How to Run
-1. Open the project using **Dev-C++** or any C++ IDE
-2. Open the `.cpp` file you want to run
-3. Compile and Execute
-
----
+## 🗓️ Learning Start Date
+**📅 November 25, 2025**  
+**⏰ 9 AM**
 
 ## 🎯 Purpose
-This repository is purely for learning and practicing C++ programming.
-
----
-
-## 👨‍💻 Author
-Educational practice repository by **Ali Haider**
+To organize C++ course materials for practice and reference.
