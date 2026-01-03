@@ -10,9 +10,6 @@ A repository for storing **C++ examples and practical exercises** from an academ
 ## 🏫 Academic Source
 **University of Shatra – Computer Engineering**
 
-## 🗓️ Learning Start Date
-**📅 November 25, 2025**  
-**⏰ 9 AM**
+> *📅 **Learning Start Date — November 25, 2024***
 
-## 🎯 Purpose
-To organize C++ course materials for practice and reference.
+🎯 **Purpose:** To organize C++ course materials for practice and reference.
