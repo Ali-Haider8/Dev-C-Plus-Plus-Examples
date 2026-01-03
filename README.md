@@ -21,13 +21,13 @@ A repository for storing **C++ examples and practical exercises** from an academ
 
 ## 📘 Courses
 - **Practical:** Programming, Problem Solving & Object-Oriented Programming  
-  - `Programming_Problem_Solving_and_OOP_Practical.pdf`
+  - `docs/Programming_Problem_Solving_and_OOP_Practical.pdf`
 
 - **Theory:**  
   - Programming & Problem Solving  
-    - `Programming_and_Problem_Solving_Theory.pdf`  
+    - `docs/Programming_and_Problem_Solving_Theory.pdf`  
   - Object-Oriented Programming  
-    - `Object_Oriented_Programming_Theory.pdf`
+    - `docs/Object_Oriented_Programming_Theory.pdf`
 
 ---
 
