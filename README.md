@@ -11,7 +11,7 @@ A repository for storing **C++ examples and practical exercises** from an academ
 
 ---
 
-## 🏫 Academic Source  
+## 🏫 Academic Source
 **University of Shatra**  
 **College of Engineering**  
 **Computer Engineering Department**  
@@ -20,18 +20,14 @@ A repository for storing **C++ examples and practical exercises** from an academ
 ---
 
 ## 📘 Courses
+- **Practical:** Programming, Problem Solving & Object-Oriented Programming  
+  - `Programming_Problem_Solving_and_OOP_Practical.pdf`
 
-### 🔹 Practical
-- **Programming, Problem Solving & Object-Oriented Programming**
-  - Covers the **1st & 2nd practical courses**
-  - Reference: `البرمجة_وحلول_المشاكل_و_البرمجة_كائنية_التوجه_عملي.pdf`
-
-### 🔹 Theoretical
-- **Programming & Problem Solving**
-  - Reference: `البرمجة_وحلول_المشاكل_نظري.pdf`
-
-- **Object-Oriented Programming**
-  - Reference: `البرمجة_كائنية_التوجه_نظري.pdf`
+- **Theory:**  
+  - Programming & Problem Solving  
+    - `Programming_and_Problem_Solving_Theory.pdf`  
+  - Object-Oriented Programming  
+    - `Object_Oriented_Programming_Theory.pdf`
 
 ---
 
@@ -47,9 +43,9 @@ A repository for storing **C++ examples and practical exercises** from an academ
 ---
 
 ## 🎯 Purpose
-To organize and archive **C++ course materials**, examples, and exercises for:
-- Academic reference  
-- Practical training  
-- Future revision  
+To organize and archive **C++ course materials** for:
+- Academic reference
+- Practical training
+- Future revision
 
 ---
