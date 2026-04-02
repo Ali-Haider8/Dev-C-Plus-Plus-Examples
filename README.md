@@ -1,4 +1,5 @@
-## 💻 C++ Examples (Dev-C++)
+## 💻 CoE113: Programming & Problems Solving (C++)
+>CoE123: Object Oriented Programming is also included.
 
 A repository for storing **C++ examples and practical exercises** from an academic programming course.
 
