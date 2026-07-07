@@ -33,3 +33,14 @@
 
 .idea/
 cmake-build-debug/
+
+
+# Ignore CLion / CMake build folders
+cmake-build-*/
+build/
+
+# Ignore CLion project files
+*.iml
+
+
+cmake-build-release/
