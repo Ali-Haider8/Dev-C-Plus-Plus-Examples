@@ -2,12 +2,20 @@
 
 using namespace std;
 
-enum Color { RED, GREEN, BLUE, YELLOW };
+enum Color
+{
+    RED,
+    GREEN,
+    BLUE,
+    YELLOW
+};
 
-int main() {
+int main()
+{
     Color myColor = GREEN;
 
-    if (myColor == GREEN) {
+    if (myColor == GREEN)
+    {
         cout << "The color is Green!" << endl;
     }
 
