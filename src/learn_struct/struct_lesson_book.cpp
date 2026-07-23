@@ -2,16 +2,14 @@
 
 using namespace std;
 
-struct Book
-{
+struct Book {
     string title;
     string author;
     int year;
     float price;
 };
 
-int main()
-{
+int main() {
 
     Book b1, b2;
 

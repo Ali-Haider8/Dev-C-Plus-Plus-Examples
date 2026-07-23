@@ -2,14 +2,12 @@
 
 using namespace std;
 
-struct Point
-{
+struct Point {
     int x;
     int y;
 };
 
-int main()
-{
+int main() {
     Point p1, p2;
     p1.x = 10;
     p1.y = 20;
