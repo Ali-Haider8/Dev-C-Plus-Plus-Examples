@@ -2,24 +2,23 @@
 using namespace std;
 
 void swap(int *a, int *b) {
-    int temp;
-    temp = *a;
+    int temp = *a;
     *a = *b;
     *b = temp;
-
-    cout << a << endl;
-    cout << b << endl;
 };
 
 int main() {
 
     int x = 10;
-    int *ptr1 = &x;
-
     int y = 20;
-    int *ptr2 = &y;
 
-    swap(ptr1, ptr2);
+    cout << "Before swaping: " << endl;
+    cout << "x = " << x << ", y = " << y << endl;
+
+    swap(&x, &y);
+
+    cout << "After swaping: " << endl;
+    cout << "x = " << x << ", y = " << y << endl;
 
     return 0;
 }
